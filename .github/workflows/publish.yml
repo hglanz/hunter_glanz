@@ -34,7 +34,7 @@ jobs:
       
       - name: Commit changes to reflect source file  changes
         run: |
-          git config --global user.name 'Chris von Csefalvay'
-          git config --global user.email 'chrisvoncsefalvay@users.noreply.github.com'
+          git config --global user.name 'Hunter Glanz'
+          git config --global user.email 'hglanz@users.noreply.github.com'
           git  diff-index --quiet HEAD || git commit -am "Automated commit of changes to source files"
           git push
