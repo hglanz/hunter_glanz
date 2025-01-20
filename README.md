@@ -1,2 +1,2 @@
-# Hunter Glanz
-Personal Website of Hunter Glanz (in progress)
+# hunter_glanz
+Personal Website of Hunter Glanz
