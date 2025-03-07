@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hunter Glanz",
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "Professional Interests",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Here are my professional interests…"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here is my blog…"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "My name is Hunter Glanz and I am a Statistics and Data Science faculty member in the Statistics Department at Cal Poly in San Luis Obispo, CA."
+  },
+  {
+    "objectID": "academic.html",
+    "href": "academic.html",
+    "title": "Academic Interests",
+    "section": "",
+    "text": "Here are my academic interests"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hunter Glanz",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
