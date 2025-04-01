@@ -3,4 +3,37 @@ title: "Academic Interests"
 format: html
 ---
 
-Here are my academic interests
+# Recent and Exciting Projects
+* **Data Science for All**: This is a text and collection of resources, published by Pearson, to assist people in delivering cutting-edge introductory data science education.
+* **GAISE 2025 Revision Work**: I’ve been a chair in the GAISE 2025 revision effort, in particular with respect to the involvement of technology/software in statistics and data science education.
+* **Professional Development and Networking**: I’m thrilled to be bolstering data science education wherever I can…
+ASA/AMATYC Joint Committee
+California Alliance for Data Science Education
+Two-Year College Data Science Initiative (to be continued from June 2024)
+
+# Classes Taught
+* STAT 150 (Cal Poly): Introduction to the Discipline of Statistics
+* DATA 100 (Cal Poly): Data Science for All I
+* STAT 130 (Cal Poly): Introduction to Statistical Reasoning
+* STAT 251 (Cal Poly): Statistical Inference for Management I
+* Inroductcory statistics for business majors
+* STAT 218 (Cal Poly): Applied Statistics for the Life Sciences
+* Introductory statistics for life science majors
+* STAT 312 (Cal Poly): Statistical Methods for Engineers
+* Introductory statistics for engineering majors
+* CAS MA 213 (Boston University): Basic Statistics and Probability
+* STAT 330 (Cal Poly): Statistical Computing with SAS
+* STAT 331 (Cal Poly): Statistical Computing with R
+* STAT 431 (Cal Poly): Advanced Statistical Computing with R
+* STAT 466 (Cal Poly): Statistical Consulting
+* STAT 434 (Cal Poly): Statistical Learning: Methods and Applications
+* DATA 402 (Cal Poly): Mathematical Founations of Data Science
+* DATA 451/452 (Cal Poly): Data Science Capstone I/II
+* CAS MA 581 (Boston University): Probability
+* GSB 544 (Cal Poly): Computing and Machine Learning for Business Analytics
+* GSB 503 (Cal Poly): Collaborative Industry Project
+* GSB 545 (Cal Poly): Advanced Machine Learning for Business Analytics
+
+# Committee and Professional Participation
+* Reader and Table Leader for the AP Statistics Reading (8 years)
+

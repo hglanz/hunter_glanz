@@ -3,4 +3,23 @@ title: "Professional Interests"
 format: html
 ---
 
-Here are my professional interests...
+I have enjoyed keeping my data science experience current and sharp in a variety of ways outside of classroom settings. 
+
+* Business intelligence and data analytics for HireAHelper
+* Data science trainings and workshops at a variety of companies including as a certified instructor of the tidyverse and shiny for the Posit Academy mentor team
+* Collaborations across numerous areas:
+  * Bioinformatics
+  * Geography
+  * Kinesiology
+  * Public Health
+  * Dairy Science
+  * Nutrition
+  * Animal Science
+  * Anthropology
+  * Marine Mammal Acoustics
+  * Marine Biology
+  * Marine Ecology
+  * Mathematics
+  * Computer Science
+  * Business Analytics
+
