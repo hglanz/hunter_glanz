@@ -39,6 +39,27 @@
     "href": "personal.html",
     "title": "Personal",
     "section": "",
-    "text": "From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you…\nFrom a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you…\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(googlesheets4)\nlibrary(DT)\n\ndining &lt;- read_sheet(\"https://docs.google.com/spreadsheets/d/1SjECEhymMNzHyx2SfseH0AufspRfUTB_zPtQB9OW_wY/edit?gid=0#gid=0\")\n\n! Using an auto-discovered, cached token.\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n  See gargle's \"Non-interactive auth\" vignette for more details:\n  &lt;https://gargle.r-lib.org/articles/non-interactive-auth.html&gt;\nℹ The googlesheets4 package is using a cached token for 'hglanz@gmail.com'.\n✔ Reading from \"personal_website_dining\".\n✔ Range 'Sheet1'.\n\ndining &lt;- dining |&gt;\n  rename(\n    Name = name,\n    State = state,\n    City = city,\n    Meal = meal,\n    `First Recommendation` = first_rec,\n    `Second Recommendation` = second_rec,\n    Website = website\n  )\n  \ndining |&gt;\n  datatable()\n\n\n\n\n\n\nFrom Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you…\n\ntravel &lt;- read_sheet(\"https://docs.google.com/spreadsheets/d/13S5UHSi4lezXp9S_IjJoRADRIkOUZ_susjKFXCMGdpY/edit?gid=0#gid=0\")\n\n✔ Reading from \"personal_website_travel\".\n\n\n✔ Range 'Sheet1'.\n\ntravel &lt;- travel |&gt;\n  rename(\n    State = state,\n    City = city,\n    Country = country\n  )\n  \ntravel |&gt;\n  datatable()\n\n\n\n\n\n\nI am equal-opportunity when it comes to staying active: working out at the gym, hiking, video games, board games, tv, and movies."
+    "text": "From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you…\nFrom a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you…"
+  },
+  {
+    "objectID": "personal.html#dining",
+    "href": "personal.html#dining",
+    "title": "Personal",
+    "section": "",
+    "text": "From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you…\nFrom a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you…"
+  },
+  {
+    "objectID": "personal.html#travel",
+    "href": "personal.html#travel",
+    "title": "Personal",
+    "section": "Travel",
+    "text": "Travel\nFrom Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you…"
+  },
+  {
+    "objectID": "personal.html#other-recreation",
+    "href": "personal.html#other-recreation",
+    "title": "Personal",
+    "section": "Other Recreation",
+    "text": "Other Recreation\nI am equal-opportunity when it comes to staying active: working out at the gym, hiking, video games, board games, tv, and movies."
   }
 ]

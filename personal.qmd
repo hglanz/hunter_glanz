@@ -2,11 +2,17 @@
 title: "Personal"
 ---
 
+## Dining
+
 From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you...
 
 From a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you...
 
 ```{r}
+#| echo: false
+#| message: false
+#| error: false
+#| warning: false
 library(tidyverse)
 library(googlesheets4)
 library(DT)
@@ -25,12 +31,19 @@ dining <- dining |>
   )
   
 dining |>
-  datatable()
+  arrange(State, City) |>
+  datatable(options = list(pageLength = 5))
 ```
+
+## Travel
 
 From Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you...
 
 ```{r}
+#| echo: false
+#| message: false
+#| error: false
+#| warning: false
 travel <- read_sheet("https://docs.google.com/spreadsheets/d/13S5UHSi4lezXp9S_IjJoRADRIkOUZ_susjKFXCMGdpY/edit?gid=0#gid=0")
 
 travel <- travel |>
@@ -41,7 +54,10 @@ travel <- travel |>
   )
   
 travel |>
-  datatable()
+  arrange(Country, City, State) |>
+  datatable(options = list(pageLength = 5))
 ```
+
+## Other Recreation
 
 I am equal-opportunity when it comes to staying active: working out at the gym, hiking, video games, board games, tv, and movies.
