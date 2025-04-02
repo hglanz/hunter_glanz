@@ -17,7 +17,8 @@ I've been in Data Science since I started college in 2005 at Cal Poly. I've alwa
 
 Depending on your own background, current position, and interests you may be curious about different dimensions of what I've been up to. So, I've organized it all into Academic, Professional, and Personal. I'm also excited to be documenting some recent thoughts in a Blog.
 
-If you're interested in Data Science Education then be sure to check out the recently published Data Science for All (displayed to the right). If you have questions or want to discuss further then please reach out to me via email.
+If you're interested in Data Science Education then be sure to check out the recently published Data Science for All (displayed below). If you have questions or want to discuss further then please reach out to me via email.
 
 If you're interested in consulting, professional development, corporate training, or contract work then please feel free to reach out to me via email.
 
+![](ds4a_cover.avif){fig-align="center" width=75%}
