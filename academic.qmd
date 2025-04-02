@@ -4,36 +4,39 @@ format: html
 ---
 
 # Recent and Exciting Projects
-* **Data Science for All**: This is a text and collection of resources, published by Pearson, to assist people in delivering cutting-edge introductory data science education.
-* **GAISE 2025 Revision Work**: I’ve been a chair in the GAISE 2025 revision effort, in particular with respect to the involvement of technology/software in statistics and data science education.
-* **Professional Development and Networking**: I’m thrilled to be bolstering data science education wherever I can…
-ASA/AMATYC Joint Committee
-California Alliance for Data Science Education
-Two-Year College Data Science Initiative (to be continued from June 2024)
+
+-   [**Data Science for All**](https://www.pearson.com/en-us/subject-catalog/p/data-science-for-all/P200000011880/9780135311189): This is a text and collection of resources, published by Pearson, to assist people in delivering cutting-edge introductory data science education.
+-   [**GAISE 2025 Revision Work**](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports): I've been a chair in the GAISE 2025 revision effort, in particular with respect to the involvement of technology/software in statistics and data science education.
+-   **Professional Development and Networking**: I'm thrilled to be bolstering data science education wherever I can... 
+
+  - [ASA/AMATYC Joint Committee](https://ww2.amstat.org/committees/commdetails.cfm?txtComm=CCNEDU06) 
+  - [California Alliance for Data Science Education](https://cdss.berkeley.edu/dsus/californiaalliance) 
+  - [Two-Year College Data Science Initiative (to be continued from June 2024)](https://amatyc.org/page/tycdsi)
 
 # Classes Taught
-* STAT 150 (Cal Poly): Introduction to the Discipline of Statistics
-* DATA 100 (Cal Poly): Data Science for All I
-* STAT 130 (Cal Poly): Introduction to Statistical Reasoning
-* STAT 251 (Cal Poly): Statistical Inference for Management I
-* Inroductcory statistics for business majors
-* STAT 218 (Cal Poly): Applied Statistics for the Life Sciences
-* Introductory statistics for life science majors
-* STAT 312 (Cal Poly): Statistical Methods for Engineers
-* Introductory statistics for engineering majors
-* CAS MA 213 (Boston University): Basic Statistics and Probability
-* STAT 330 (Cal Poly): Statistical Computing with SAS
-* STAT 331 (Cal Poly): Statistical Computing with R
-* STAT 431 (Cal Poly): Advanced Statistical Computing with R
-* STAT 466 (Cal Poly): Statistical Consulting
-* STAT 434 (Cal Poly): Statistical Learning: Methods and Applications
-* DATA 402 (Cal Poly): Mathematical Founations of Data Science
-* DATA 451/452 (Cal Poly): Data Science Capstone I/II
-* CAS MA 581 (Boston University): Probability
-* GSB 544 (Cal Poly): Computing and Machine Learning for Business Analytics
-* GSB 503 (Cal Poly): Collaborative Industry Project
-* GSB 545 (Cal Poly): Advanced Machine Learning for Business Analytics
+
+-   [STAT 150 (Cal Poly): Introduction to the Discipline of Statistics](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/150-2178.pdf)
+-   DATA 100 (Cal Poly): Data Science for All I
+-   [STAT 130 (Cal Poly): Introduction to Statistical Reasoning](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/130-2158.pdf)
+-   [STAT 251 (Cal Poly): Statistical Inference for Management I](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/251-2158.pdf)
+-   Inroductcory statistics for business majors
+-   [STAT 218 (Cal Poly): Applied Statistics for the Life Sciences](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/218-2162.pdf)
+-   Introductory statistics for life science majors
+-   [STAT 312 (Cal Poly): Statistical Methods for Engineers](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/312-2158.pdf)
+-   Introductory statistics for engineering majors
+-   [CAS MA 213 (Boston University): Basic Statistics and Probability](https://www.bu.edu/stat/courses/undergraduate-courses/)
+-   [STAT 330 (Cal Poly): Statistical Computing with SAS](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/330-2158.pdf)
+-   [STAT 331 (Cal Poly): Statistical Computing with R](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/331-2158.pdf)
+-   STAT 431 (Cal Poly): Advanced Statistical Computing with R
+-   [STAT 466 (Cal Poly): Statistical Consulting](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/465-2158.pdf)
+-   [STAT 434 (Cal Poly): Statistical Learning: Methods and Applications](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/434-2178.pdf)
+-   DATA 402 (Cal Poly): Mathematical Foundations of Data Science
+-   DATA [451](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/DATA451-ECO%20Winter%202019.pdf)/[452](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/DATA452-ECO%20Winter%202019.pdf) (Cal Poly): Data Science Capstone I/II
+-   [CAS MA 581 (Boston University): Probability](https://www.bu.edu/stat/courses/undergraduate-courses/)
+-   [GSB 544 (Cal Poly): Computing and Machine Learning for Business Analytics](https://catalog.calpoly.edu/coursesaz/gsb/)
+-   [GSB 503 (Cal Poly): Collaborative Industry Project](https://catalog.calpoly.edu/coursesaz/gsb/)
+-   [GSB 545 (Cal Poly): Advanced Machine Learning for Business Analytics](https://catalog.calpoly.edu/coursesaz/gsb/)
 
 # Committee and Professional Participation
-* Reader and Table Leader for the AP Statistics Reading (8 years)
 
+-   Reader and Table Leader for the AP Statistics Reading (8 years)

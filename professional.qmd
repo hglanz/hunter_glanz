@@ -3,23 +3,22 @@ title: "Professional Interests"
 format: html
 ---
 
-I have enjoyed keeping my data science experience current and sharp in a variety of ways outside of classroom settings. 
+I have enjoyed keeping my data science experience current and sharp in a variety of ways outside of classroom settings.
 
-* Business intelligence and data analytics for HireAHelper
-* Data science trainings and workshops at a variety of companies including as a certified instructor of the tidyverse and shiny for the Posit Academy mentor team
-* Collaborations across numerous areas:
-  * Bioinformatics
-  * Geography
-  * Kinesiology
-  * Public Health
-  * Dairy Science
-  * Nutrition
-  * Animal Science
-  * Anthropology
-  * Marine Mammal Acoustics
-  * Marine Biology
-  * Marine Ecology
-  * Mathematics
-  * Computer Science
-  * Business Analytics
-
+-   Business intelligence and data analytics for [HireAHelper](https://www.hireahelper.com/?kw=hireahelper&cpn=71994171&utm_term=hireahelper&utm_campaign=&utm_source=google&utm_medium=cpc&hsa_acc=1622056249&hsa_cam=71994171&hsa_grp=2651467251&hsa_ad=715480263259&hsa_src=g&hsa_tgt=kwd-488446128632&hsa_kw=hireahelper&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwna6_BhCbARIsALId2Z20zTiBKLFvFPbrYHUqxND61mdwwqGSDemkR7KKtuCX-TqCD9RgY7QaAsPKEALw_wcB)
+-   Data science trainings and workshops at a variety of companies including as a certified instructor of the tidyverse and shiny for the [Posit](https://posit.co/) Academy mentor team
+-   Collaborations across numerous areas:
+    -   Bioinformatics
+    -   Geography
+    -   Kinesiology
+    -   Public Health
+    -   Dairy Science
+    -   Nutrition
+    -   Animal Science
+    -   Anthropology
+    -   Marine Mammal Acoustics
+    -   Marine Biology
+    -   Marine Ecology
+    -   Mathematics
+    -   Computer Science
+    -   Business Analytics

@@ -4,9 +4,9 @@ title: "Personal"
 
 ## Dining
 
-From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you...
+From chicken nuggets at McDonalds to local halibut crudo at [The Progress](https://theprogress-sf.com/), I would love to talk about food with you...
 
-From a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you...
+From a [Nascar Spritz](https://punchdrink.com/articles/beer-spritz-spaghett-nascar-camparty/#:~:text=The%20NASCAR%20Spritz%20marries%20high,High%20Life%2C%20not%20Bud).), at bad-movie night with friends, to an Iguana Beach at [The Hub](https://thehubslo.com/), I would love to talk about drinks with you...
 
 ```{r}
 #| echo: false
@@ -37,7 +37,7 @@ dining |>
 
 ## Travel
 
-From Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you...
+From Vava'u, Tonga to Omaha, Nebraska to Tromsø, Norway, I would love to talk about traveling with you...
 
 ```{r}
 #| echo: false
