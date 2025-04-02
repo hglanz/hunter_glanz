@@ -21,4 +21,4 @@ If you're interested in Data Science Education then be sure to check out the rec
 
 If you're interested in consulting, professional development, corporate training, or contract work then please feel free to reach out to me via email.
 
-![](ds4a_cover.avif){fig-align="center" width=75%}
+![](ds4a_cover.avif){fig-align="center" width=50%}
