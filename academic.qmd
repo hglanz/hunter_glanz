@@ -8,10 +8,9 @@ format: html
 -   [**Data Science for All**](https://www.pearson.com/en-us/subject-catalog/p/data-science-for-all/P200000011880/9780135311189): This is a text and collection of resources, published by Pearson, to assist people in delivering cutting-edge introductory data science education.
 -   [**GAISE 2025 Revision Work**](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports): I've been a chair in the GAISE 2025 revision effort, in particular with respect to the involvement of technology/software in statistics and data science education.
 -   **Professional Development and Networking**: I'm thrilled to be bolstering data science education wherever I can... 
-
-  - [ASA/AMATYC Joint Committee](https://ww2.amstat.org/committees/commdetails.cfm?txtComm=CCNEDU06) 
-  - [California Alliance for Data Science Education](https://cdss.berkeley.edu/dsus/californiaalliance) 
-  - [Two-Year College Data Science Initiative (to be continued from June 2024)](https://amatyc.org/page/tycdsi)
+    - [ASA/AMATYC Joint Committee](https://ww2.amstat.org/committees/commdetails.cfm?txtComm=CCNEDU06) 
+    - [California Alliance for Data Science Education](https://cdss.berkeley.edu/dsus/californiaalliance) 
+    - [Two-Year College Data Science Initiative (to be continued from June 2024)](https://amatyc.org/page/tycdsi)
 
 # Classes Taught
 
@@ -19,11 +18,8 @@ format: html
 -   DATA 100 (Cal Poly): Data Science for All I
 -   [STAT 130 (Cal Poly): Introduction to Statistical Reasoning](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/130-2158.pdf)
 -   [STAT 251 (Cal Poly): Statistical Inference for Management I](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/251-2158.pdf)
--   Inroductcory statistics for business majors
 -   [STAT 218 (Cal Poly): Applied Statistics for the Life Sciences](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/218-2162.pdf)
--   Introductory statistics for life science majors
 -   [STAT 312 (Cal Poly): Statistical Methods for Engineers](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/312-2158.pdf)
--   Introductory statistics for engineering majors
 -   [CAS MA 213 (Boston University): Basic Statistics and Probability](https://www.bu.edu/stat/courses/undergraduate-courses/)
 -   [STAT 330 (Cal Poly): Statistical Computing with SAS](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/330-2158.pdf)
 -   [STAT 331 (Cal Poly): Statistical Computing with R](https://content-calpoly-edu.s3.amazonaws.com/statistics/1/documents/Courses/ECOs/331-2158.pdf)
