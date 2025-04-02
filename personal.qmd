@@ -2,15 +2,46 @@
 title: "Personal"
 ---
 
-From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you…
+From chicken nuggets at McDonalds to local halibut crudo at The Progress, I would love to talk about food with you...
 
-From a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you…
+From a Nascar Spritz, at bad-movie night with friends, to an Iguana Beach at The Hub, I would love to talk about drinks with you...
 
-[insert table of restaurants and bars here]
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(DT)
 
-From Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you…
+dining <- read_sheet("https://docs.google.com/spreadsheets/d/1SjECEhymMNzHyx2SfseH0AufspRfUTB_zPtQB9OW_wY/edit?gid=0#gid=0")
 
-[insert table of travel locations here]
+dining <- dining |>
+  rename(
+    Name = name,
+    State = state,
+    City = city,
+    Meal = meal,
+    `First Recommendation` = first_rec,
+    `Second Recommendation` = second_rec,
+    Website = website
+  )
+  
+dining |>
+  datatable()
+```
+
+From Vavau, Tonga to Omaha, Nebraska to Tromso, Norway, I would love to talk about traveling with you...
+
+```{r}
+travel <- read_sheet("https://docs.google.com/spreadsheets/d/13S5UHSi4lezXp9S_IjJoRADRIkOUZ_susjKFXCMGdpY/edit?gid=0#gid=0")
+
+travel <- travel |>
+  rename(
+    State = state,
+    City = city,
+    Country = country
+  )
+  
+travel |>
+  datatable()
+```
 
 I am equal-opportunity when it comes to staying active: working out at the gym, hiking, video games, board games, tv, and movies.
-
